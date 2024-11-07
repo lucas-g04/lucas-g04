@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucas-g04
+- 👀 I’m interested in analysing Data
+- 🌱 I’m currently learning Angular and Java
+- 😄 Pronouns: He / Him
